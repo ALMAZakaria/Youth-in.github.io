@@ -405,7 +405,7 @@ footer {
   margin: 0 !important;
   background-color: rgb(1, 39, 70);
   background-blend-mode: multiply;
-  background-image: url("assets/img/Capture-map_youthin.PNG");
+  background-image: url("assets/img/Capture-map_youthin.png");
   background-attachment: center center;
   border-top: 0.2em solid var(--oran1);
   background-size: cover;
