@@ -281,7 +281,7 @@ hr {
 }
 .full-bg-img
 {
-    background-image: url(/assets/img/bg.svg);
+    background-image: url(../bg.svg);
     background-size: cover;
     max-height: 10 !important;
     width: 100%!important;
@@ -291,7 +291,7 @@ hr {
   height: 75%;
   width: 100%;
   background: var(--blue2);
-  background-image: url(/assets/img/Amin-bg1.png);
+  background-image: url(../Amin-bg1.png);
   background-size: cover;
 }
 */
