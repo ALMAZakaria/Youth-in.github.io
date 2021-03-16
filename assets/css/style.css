@@ -346,7 +346,7 @@ h1 #h1-aboutus {
 }
 /*Counter section*/
 #facts {
-  background-image: url(/assets/img/grp.jpg);
+  background-image: url("/assets/img/grp.jpg");
   background-size: cover;
 }
 @media (max-width: 768px) {
